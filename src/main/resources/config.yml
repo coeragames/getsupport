@@ -1,0 +1,15 @@
+storage:
+  #MySQL does not support offline mode as it works with UUIDs
+  mysql:
+    #put true or false (enable mysql yes or no)
+    enable: false
+    #put your mysql connection string (ip:port)
+    ip: ""
+    #put your mysql database name
+    db: ""
+    #put your mysql user name
+    user: ""
+    #put your mysql pass
+    pass: ""
+    #put your mysql prefix
+    prefix: ""

@@ -1,0 +1,4 @@
+name: getsupport
+main: fr.pr11dev.getsupport.bungeecord.getsupportBungee
+version: '${project.version}'
+author: pr11dev
